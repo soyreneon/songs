@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/soyreneon/songs/main/",
   "wt_akwf": "wt/AKWF_0001.wav",
-  "cowbell": "samples/Cowbell-1.wav"
+  "cowbell": "samples/Cowbell-1.wav",
+  "flute-alessis": "samples/Alesis-S4-Plus-Piccolo-C5(like flute).wav"
 }
