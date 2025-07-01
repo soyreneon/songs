@@ -3,5 +3,11 @@
   "wt_akwf": "wt/AKWF_0001.wav",
   "wt_violin": { "d3": "wt/AKWF_violin_0004.wav" },
   "cowbell": "samples/Cowbell-1.wav",
-  "flutealessis": "samples/Alesis-S4Plus-Piccolo-C5-flute.wav"
+  "flutealessis": "samples/Alesis-S4Plus-Piccolo-C5-flute.wav",
+  "chordPadDuneValley2": { "g#3": "samples/CHORDPAD-DuneValley2.wav" },
+  "bassMagnoBass2": "samples/BASS-MagnoBass2.wav",
+  "bassMagnoBass": "samples/BASS-MagnoBass.wav",
+  "brassyBoard1": "samples/SYNTH-BrassyBoard1.wav",
+  "synthCleanZoemer": "samples/SYNTH-Zoemer.wav",
+  "synthCleanHigh": "samples/SYNTH-CleanHigh.wav"
 }
