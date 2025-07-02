@@ -9,5 +9,16 @@
   "bassMagnoBass": "samples/BASS-MagnoBass.wav",
   "brassyBoard1": "samples/SYNTH-BrassyBoard1.wav",
   "synthCleanZoemer": "samples/SYNTH-Zoemer.wav",
-  "synthCleanHigh": "samples/SYNTH-CleanHigh.wav"
+  "synthCleanHigh": "samples/SYNTH-CleanHigh.wav",
+  "basicFanaticBass": {
+    "c1": "samples/ABL-OPERATOR-basic-fanatic-bass-c1.wav"
+  },
+  "burnedBass": { "c1": "samples/ABL-OPERATOR-burned-bass-c1.wav" },
+  "chordPacific": { "c1": "samples/ABL-OPERATOR-chord-pacific-c1.wav" },
+  "astralVoices": "samples/AL5-astral-voices.wav",
+  "memories": "samples/AL5-memories.wav",
+  "autumnSpirit": { "c4": "samples/ALab4-autumn-spirit-c4.wav" },
+  "dreamyRBKeys": "samples/ALab4-dreamy-rb-keys.wav",
+  "nitzerBass": "samples/ALab4-nitzer-bass.wav",
+  "darkReese": "samples/ALabV-dark-reese.wav"
 }
